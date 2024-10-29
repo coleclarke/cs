@@ -1,0 +1,17 @@
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\bin\Debug\net8.0-windows\mole.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\bin\Debug\net8.0-windows\mole.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\bin\Debug\net8.0-windows\mole.runtimeconfig.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\bin\Debug\net8.0-windows\mole.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\bin\Debug\net8.0-windows\mole.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.Form1.resources
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.Properties.Resources.resources
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.csproj.GenerateResource.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.AssemblyInfoInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.AssemblyInfo.cs
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.csproj.CoreCompileInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\refint\mole.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\mole.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\mole\mole\obj\Debug\net8.0-windows\ref\mole.dll
