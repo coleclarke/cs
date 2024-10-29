@@ -1,0 +1,16 @@
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\bin\Debug\net8.0-windows\Chips Inventory.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\bin\Debug\net8.0-windows\Chips Inventory.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\bin\Debug\net8.0-windows\Chips Inventory.runtimeconfig.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\bin\Debug\net8.0-windows\Chips Inventory.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\bin\Debug\net8.0-windows\Chips Inventory.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips_Inventory.Form1.resources
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.csproj.GenerateResource.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.AssemblyInfoInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.AssemblyInfo.cs
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.csproj.CoreCompileInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\refint\Chips Inventory.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\Chips Inventory.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Form c#\Chips Inventory\Chips Inventory\obj\Debug\net8.0-windows\ref\Chips Inventory.dll
