@@ -1,0 +1,42 @@
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\bin\Debug\net8.0\Sharpie C.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\bin\Debug\net8.0\Sharpie C.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\bin\Debug\net8.0\Sharpie C.runtimeconfig.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\bin\Debug\net8.0\Sharpie C.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\bin\Debug\net8.0\Sharpie C.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\Sharpie C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\Sharpie C.AssemblyInfoInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\Sharpie C.AssemblyInfo.cs
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\Sharpie C.csproj.CoreCompileInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\Sharpie C.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\refint\Sharpie C.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\Sharpie C.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\Sharpie C.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Sharpie C\obj\Debug\net8.0\ref\Sharpie C.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\bin\Debug\net8.0\Sharpie C.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\bin\Debug\net8.0\Sharpie C.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\bin\Debug\net8.0\Sharpie C.runtimeconfig.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\bin\Debug\net8.0\Sharpie C.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\bin\Debug\net8.0\Sharpie C.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\Sharpie C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\Sharpie C.AssemblyInfoInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\Sharpie C.AssemblyInfo.cs
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\Sharpie C.csproj.CoreCompileInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\Sharpie C.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\refint\Sharpie C.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\Sharpie C.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\Sharpie C.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C\obj\Debug\net8.0\ref\Sharpie C.dll
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\bin\Debug\net8.0\Sharpie C.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\bin\Debug\net8.0\Sharpie C.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\bin\Debug\net8.0\Sharpie C.runtimeconfig.json
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\bin\Debug\net8.0\Sharpie C.dll
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\bin\Debug\net8.0\Sharpie C.pdb
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\Sharpie C.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\Sharpie C.AssemblyInfoInputs.cache
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\Sharpie C.AssemblyInfo.cs
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\Sharpie C.csproj.CoreCompileInputs.cache
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\Sharpie C.dll
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\refint\Sharpie C.dll
+c:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\Sharpie C.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\Sharpie C.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Sharpie C - Copy\obj\Debug\net8.0\ref\Sharpie C.dll
