@@ -1,0 +1,14 @@
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\bin\Release\net8.0\Trianglev2.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\bin\Release\net8.0\Trianglev2.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\bin\Release\net8.0\Trianglev2.runtimeconfig.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\bin\Release\net8.0\Trianglev2.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\bin\Release\net8.0\Trianglev2.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\Trianglev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\Trianglev2.AssemblyInfoInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\Trianglev2.AssemblyInfo.cs
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\Trianglev2.csproj.CoreCompileInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\Trianglev2.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\refint\Trianglev2.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\Trianglev2.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\Trianglev2.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Trianglev2\obj\Release\net8.0\ref\Trianglev2.dll
