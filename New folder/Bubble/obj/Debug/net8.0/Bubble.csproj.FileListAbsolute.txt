@@ -1,0 +1,14 @@
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\bin\Debug\net8.0\Bubble.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\bin\Debug\net8.0\Bubble.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\bin\Debug\net8.0\Bubble.runtimeconfig.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\bin\Debug\net8.0\Bubble.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\bin\Debug\net8.0\Bubble.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\Bubble.AssemblyInfoInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\Bubble.AssemblyInfo.cs
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\Bubble.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\refint\Bubble.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\Bubble.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\Bubble.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\Bubble\obj\Debug\net8.0\ref\Bubble.dll

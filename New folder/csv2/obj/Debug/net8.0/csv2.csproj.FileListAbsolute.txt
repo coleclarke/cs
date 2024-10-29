@@ -1,0 +1,14 @@
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\bin\Debug\net8.0\csv2.exe
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\bin\Debug\net8.0\csv2.deps.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\bin\Debug\net8.0\csv2.runtimeconfig.json
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\bin\Debug\net8.0\csv2.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\bin\Debug\net8.0\csv2.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\csv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\csv2.AssemblyInfoInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\csv2.AssemblyInfo.cs
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\csv2.csproj.CoreCompileInputs.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\csv2.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\refint\csv2.dll
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\csv2.pdb
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\csv2.genruntimeconfig.cache
+C:\Users\cole.clarke\Desktop\Sharpie C\Reg c#\csv2\obj\Debug\net8.0\ref\csv2.dll
